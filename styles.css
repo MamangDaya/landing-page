@@ -168,3 +168,15 @@ body {
     color: white;
     font-size: 16px;    
 }
+
+.footer-container {
+    background-color: #1F2937;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer-container p {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
